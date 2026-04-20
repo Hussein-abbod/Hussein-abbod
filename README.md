@@ -1,8 +1,8 @@
 # Hi there👋, I'm Hussein Abbod 
 
-### AI Engineering Undergraduate | Building Autonomous Agents & Scalable Systems
+### Computer Science (AI Spec.) | Architecting ML Models, Agents & Scalable Systems
 
-I am an AI Engineering student at Multimedia University (MMU), specializing in **Agentic Workflows**, **Retrieval-Augmented Generation (RAG)**, and high-velocity full-stack prototyping. My focus is on bridging the gap between cutting-edge LLMs and production-ready architecture.
+I am a Computer Science undergraduate at Multimedia University (MMU) specializing in **Artificial Intelligence**. My focus is on **training Machine Learning models, orchestrating Agentic Workflows (including RAG), and utilizing high-velocity full-stack prototyping** to bridge the gap between cutting-edge LLMs and production-ready architecture.
 
 ---
 
@@ -21,6 +21,7 @@ I am an AI Engineering student at Multimedia University (MMU), specializing in *
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Backend & Systems**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
