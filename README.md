@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there👋, I'm Hussein Abbod 
 
-<!--
-**Hussein-abbod/Hussein-abbod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering Undergraduate | Building Autonomous Agents & Scalable Systems
 
-Here are some ideas to get you started:
+I am an AI Engineering student at Multimedia University (MMU), specializing in **Agentic Workflows**, **Retrieval-Augmented Generation (RAG)**, and high-velocity full-stack prototyping. My focus is on bridging the gap between cutting-edge LLMs and production-ready architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Currently Working On
+* 🧠 **Engineering AI Agents:** Building multi-agent systems (CrewAI) for complex, autonomous reasoning tasks like corporate financial analysis.
+* 🔍 **Optimizing RAG Pipelines:** Developing local, privacy-centric semantic search systems using ChromaDB and Ollama.
+* ⚡ **AI-Augmented Development:** Rapidly architecting full-stack applications (React + FastAPI) using modern AI-assisted coding methodologies.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**AI & Machine Learning**<br>
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Backend & Systems**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & Automation**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Infrastructure & Cloud**<br>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+* **[Legal Knowledge RAG System](#):** A high-speed, local-first RAG pipeline providing law students with sub-second semantic search across 590-page textbooks using Gemma and Ollama.
+* **[SpeakUP Academic Platform](#):** A full-stack English institute management system featuring a Groq-powered, level-adaptive AI language tutor.
+* **[Corporate Financial Analysis Crew](#):** A three-tier autonomous AI agent crew utilizing Llama-3.3-70B for zero-hallucination market comparisons.
+* **[Onyx Furniture E-Commerce](#):** A premium, mobile-first shopping platform deployed on Vercel and Render with custom rate-limiting middleware.
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
+* **Email:** [Your Email Address]
