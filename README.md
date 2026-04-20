@@ -1,6 +1,6 @@
 # Hi there👋, I'm Hussein Abbod 
 
-### Computer Science (AI Spec.) | Architecting ML Models, Agents & Scalable Systems
+### Computer Science (AI Spec.) | Architecting ML Models, Autonomous Agents & Scalable Systems
 
 I am a Computer Science undergraduate at Multimedia University (MMU) specializing in **Artificial Intelligence**. My focus is on **training Machine Learning models, orchestrating Agentic Workflows (including RAG), and utilizing high-velocity full-stack prototyping** to bridge the gap between cutting-edge LLMs and production-ready architecture.
 
