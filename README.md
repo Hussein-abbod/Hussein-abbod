@@ -19,7 +19,6 @@ I am a Computer Science undergraduate at Multimedia University (MMU) specializin
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
