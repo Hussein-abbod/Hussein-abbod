@@ -53,4 +53,4 @@ I am a Computer Science undergraduate at Multimedia University (MMU) specializin
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/binthabit](https://linkedin.com/in/binthabit)
-* **Email:** [husseinobood88@gmail.com]
+* **Email:** husseinobood88@gmail.com
