@@ -44,13 +44,13 @@ I am a Computer Science undergraduate at Multimedia University (MMU) specializin
 ---
 
 ### 🏆 Featured Projects
-* **[Legal Knowledge RAG System](#):** A high-speed, local-first RAG pipeline providing law students with sub-second semantic search across 590-page textbooks using Gemma and Ollama.
-* **[SpeakUP Academic Platform](#):** A full-stack English institute management system featuring a Groq-powered, level-adaptive AI language tutor.
-* **[Corporate Financial Analysis Crew](#):** A three-tier autonomous AI agent crew utilizing Llama-3.3-70B for zero-hallucination market comparisons.
-* **[Onyx Furniture E-Commerce](#):** A premium, mobile-first shopping platform deployed on Vercel and Render with custom rate-limiting middleware.
+* **[Legal Knowledge RAG System](https://github.com/Hussein-abbod/Law-of-Contract-1912-RAG.git):** A high-speed, local-first RAG pipeline providing law students with sub-second semantic search across 590-page textbooks using Gemma and Ollama.
+* **[SpeakUP Academic Platform](https://github.com/Hussein-abbod/academic-system.git):** A full-stack English institute management system featuring a Groq-powered, level-adaptive AI language tutor.
+* **[Corporate Financial Analysis Crew](https://github.com/Hussein-abbod/corporate-financial-analysis-crew.git):** A three-tier autonomous AI agent crew utilizing Llama-3.3-70B for zero-hallucination market comparisons.
+* **[Onyx Furniture E-Commerce](https://github.com/Hussein-abbod/furniture-app.git):** A premium, mobile-first shopping platform deployed on Vercel and Render with custom rate-limiting middleware.
 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
-* **Email:** [Your Email Address]
+* **LinkedIn:** [linkedin.com/in/binthabit](https://linkedin.com/in/binthabit)
+* **Email:** [husseinobood88@gmail.com]
